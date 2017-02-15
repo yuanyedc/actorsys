@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="SBT: com.oracle:ojdbc6:11.2.0.3:jar">
+    <CLASSES>
+      <root url="jar://D:/software/sbt_rep/ivy/cache/com.oracle/ojdbc6/jars/ojdbc6-11.2.0.3.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

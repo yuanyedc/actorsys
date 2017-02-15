@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="SBT: io.aeron:aeron-driver:1.1.0:jar">
+    <CLASSES>
+      <root url="jar://D:/software/sbt_rep/ivy/cache/io.aeron/aeron-driver/jars/aeron-driver-1.1.0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://D:/software/sbt_rep/ivy/cache/io.aeron/aeron-driver/srcs/aeron-driver-1.1.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
